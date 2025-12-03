@@ -1,3 +1,10 @@
+👋 **Hello Evaluators!**
+
+Thank you for taking the time to look at this project.
+Since this is a new project, I have been updating the repository slowly. Please feel free to contact me for more information until I add more details.
+
+---
+
 EEG Graph Learning with Multi Step Attention
 
 A complete pipeline for preprocessing, graph construction and graph based deep learning on EEG data.
