@@ -116,6 +116,24 @@ The experiments are organized into separate Jupyter Notebooks in the `src/` dire
 *   **Acute Stroke:** Achieved ~89.7% mean accuracy, significantly outperforming static baselines (approx. 70%).
 *   **Visual Analysis:** Attention maps confirm the model's ability to track compensatory neural recruitment in the contralesional hemisphere.
 
+## 📝 Todo List
+
+We are continuously improving this repository. Here is our roadmap for the near future:
+
+- [ ] **Refactor Codebase:** Modularize the notebook code into Python scripts for easier reuse.
+- [ ] **Add Pre-trained Weights:** Upload checkpoints for the best-performing models on the Stroke dataset.
+- [ ] **Extended Documentation:** Add more detailed docstrings and comments to the core model classes.
+- [ ] **Docker Support:** Create a Dockerfile for a reproducible environment.
+
+## 🤝 Issues & Feedback
+
+We value your feedback! If you encounter any issues running the code, have questions about the implementation, or spot any bugs, please do not hesitate to:
+
+1.  **Open an Issue:** Use the GitHub "Issues" tab to report problems or suggest enhancements.
+2.  **Reach Out:** We are happy to clarify any doubts regarding the methodology or code.
+
+Your input helps us make this research more accessible and robust.
+
 ## Citation
 
 If you use this code or dataset in your research, please cite the manuscript when it gets published(hopefully soon!):
