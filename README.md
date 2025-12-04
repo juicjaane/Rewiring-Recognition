@@ -118,7 +118,7 @@ The experiments are organized into separate Jupyter Notebooks in the `src/` dire
 
 ## Citation
 
-If you use this code or dataset in your research, please cite the manuscript:
+If you use this code or dataset in your research, please cite the manuscript when it gets published(hopefully soon!):
 
 ```bibtex
 @article{sivakumar2024rewiring,
