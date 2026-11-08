@@ -132,15 +132,5 @@ We value your feedback! If you encounter any issues running the code, have quest
 
 Your input helps us make this research more accessible and robust.
 
-## Citation
 
-If you use this code or dataset in your research, please cite the manuscript when it gets published(hopefully soon!):
-
-```bibtex
-@article{sivakumar2024rewiring,
-  title={Rewiring Recognition: Dynamic Graphs for Non-Stationary Stroke EEG},
-  author={Sivakumar, Janeshvar and Rajaram, Kanchana and R. K., Jothir Aditya},
-  journal={Submitted to Springer Nature Annals of Biomedical Engineering},
-  year={2024}
-}
 ```
