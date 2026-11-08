@@ -3,10 +3,8 @@
 
 **Affiliation:** Sri Sivasubramaniya Nadar College of Engineering, Anna University, Chennai, India
 
-> **👋 Hello Evaluators!**
->
 > Welcome to the digital home of *Rewiring Recognition*! We are thrilled to have you here.
-> You've arrived just as we are putting the finishing touches on our repository. We are actively curating our research code to ensure it's crystal clear for your review, so pardon the "wet paint" in a few spots. We hope you enjoy exploring our work on neuroplasticity! 🧠✨
+> You've arrived just as we are putting the finishing touches on our repository. We are actively curating our research code to ensure it's crystal clear for your review, so pardon the "wet paint" in a few spots.
 
 ## Overview
 
